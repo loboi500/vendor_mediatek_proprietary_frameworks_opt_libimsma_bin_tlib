@@ -1,0 +1,2 @@
+libvcodec_capenc filter=lfs diff=lfs merge=lfs -text
+libimsma_adapt filter=lfs diff=lfs merge=lfs -text
